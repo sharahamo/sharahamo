@@ -6,14 +6,11 @@
 Here are some ideas to get you started:
 -->
 
-#### 🔭 I’m mastering data science and analytics to transform complex data into compelling stories and actionable insights. 🧙‍♂️📊
-🌱 I’m currently learning advanced machine learning techniques, data visualisation and data engineering.  
+#### 🔭 I’m mastering data and analytics engineering to transform complex data into compelling stories and actionable insights. 🧙‍♂️📊
 🎓 I have a PhD in Human Robotics from Imperial College London, specialising in technology-assisted rehabilitation for children with cerebral palsy.  
 🤓 6 years of experience as a Data and Analytics Engineer at a UK Series B medical device start-up.   
-💬 Ask me about data analysis, machine learning, human-robot interaction, technology-based rehabilitation and any data-related challenges.  
-👨‍💻 All of my projects are available in here!  
 📫 How to reach me: sharah91@gmail.com  
-⚡ Fun fact: I love blending data science with human-robotics to create fascinating new applications.  
+⚡ Fun fact: I love blending data science with human robotics to create fascinating new applications.  
 ◊
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
