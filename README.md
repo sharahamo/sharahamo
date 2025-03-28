@@ -6,12 +6,11 @@
 Here are some ideas to get you started:
 -->
 
-#### 🔭 I’m mastering data and analytics engineering to transform complex data into compelling stories and actionable insights. 🧙‍♂️📊
-🎓 I have a PhD in Human Robotics from Imperial College London, specialising in technology-assisted rehabilitation for children with cerebral palsy.  
-🤓 6 years of experience as a Data and Analytics Engineer at a UK Series B medical device start-up.   
-📫 How to reach me: sharah91@gmail.com  
-⚡ Fun fact: I love blending data science with human robotics to create fascinating new applications.  
-◊
+#### 🧙‍♂️📊
+Data & Analytics Engineer with 6+ years in health-tech and a PhD in Bioengineering. I specialise in building scalable pipelines and trusted data models that turn complex data into reliable, self-serve analytics. Coming from a research background, I value accuracy, clarity, and reproducibility, and I’m a strong advocate for data literacy and data-informed decision making across the organisation. 
+
+Big fan of snappy metrics, clever shortcuts, and collaborative chaos — especially when it leads to cleaner data, faster insights, and fewer Slack "heeeeeyyyyyy quick questions 👀". 
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
